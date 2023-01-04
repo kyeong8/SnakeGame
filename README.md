@@ -1,5 +1,9 @@
 # SnakeGame
 2021년 2학기에 서울대 후배 과제를 도와주면서 제작한 2인용 snakegame
+## Play
+<img width='49.5%' src="https://user-images.githubusercontent.com/65859079/210501166-c241b992-dc19-478e-968d-856217ec65a8.png"/><img width='50.5%' src="https://user-images.githubusercontent.com/65859079/210501904-145c7ad9-c89f-44c8-9a29-95ec461c4599.png"/>
+<img width='50%' src="https://user-images.githubusercontent.com/65859079/210501302-19d00db3-2368-4864-8fa4-32faf4b3bf7f.png"/><img width='50%' src="https://user-images.githubusercontent.com/65859079/210501520-773928de-9227-49b0-9641-16ab374abc37.png"/>
+
 ## Rule
 1. 플레이어 P1과 P2는 각각 화면의 왼쪽과 오른쪽에 위치한 뱀을 조작해서 상하좌우로 움직일 수 있다. 
 	- 플레이어 P1 : Turn (W, A, S, D) 
@@ -50,6 +54,3 @@
 		- 같은 길이에서 머리가 만나는 경우 
 		- 하나가 벽에 부딪히고, 하나는 몸에 부딪히는 경우 
 		- 등등 
-## Play
-![moving](./moving.png)![tie](./tie.png)
-![player1_win](./player1_win.png)![player2_win](./player2_win.png)
