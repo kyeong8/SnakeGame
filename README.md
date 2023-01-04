@@ -54,3 +54,9 @@
 		- 같은 길이에서 머리가 만나는 경우 
 		- 하나가 벽에 부딪히고, 하나는 몸에 부딪히는 경우 
 		- 등등 
+<<<<<<< HEAD
+=======
+## Play
+![moving](./img/moving.png)![tie](./img/tie.png)
+![player1_win](./img/player1_wins.png)![player2_win](./img/player2_wins.png)
+>>>>>>> 0734794a501d86dfed0816915b370f90ac4e6d6c
