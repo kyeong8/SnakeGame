@@ -51,5 +51,5 @@
 		- 하나가 벽에 부딪히고, 하나는 몸에 부딪히는 경우 
 		- 등등 
 ## Play
-![moving](./moving.png)![tie](./tie.png)
-![player1_win](./player1_win.png)![player2_win](./player2_win.png)
+![moving](./img/moving.png)![tie](./img/tie.png)
+![player1_win](./img/player1_wins.png)![player2_win](./img/player2_wins.png)
